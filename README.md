@@ -1,8 +1,10 @@
-Nombre: Armando B. VERA
+### Helo Word
 
-Hobby: Programación y Matemática
+**Nombre**: Armando B. VERA
 
-Deporte: Futbol
+**Hobby**: Programación y Matemática
 
-Equipo de sus amores: Boca Juniors
+**Deporte**: Futbol
+
+**Equipo de sus amores**: Boca Juniors
 
